@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/hello",
+      "handler": "hello.hello",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
